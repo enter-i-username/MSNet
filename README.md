@@ -6,7 +6,7 @@ Hyperspectral anomaly detection (HAD) has attracted increasing attention due to 
 
 ## Workflow
 
-<img src="msnet.png" alt="msnet" width="60%" height="60%">
+<img src="MSNet.png" alt="msnet" width="60%" height="60%">
 
 ### 1. Band Selection
 We utilize a fast and efficient band selection algorithm [OPBS](https://ieeexplore.ieee.org/document/8320544) to eliminate the redundant information among bands, while reducing time costs for training.
