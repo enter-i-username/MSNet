@@ -43,3 +43,15 @@ python main.py
 ```
 
 In this program, we evaluate the network using the Coast dataset in `dataset/coast`. You can also include other datasets in the `dataset` directory using a format similar to "Coast".
+
+## Citation
+
+If you find the code helpful in your research, please kindly cite our paper:
+
+@article{liu2024msnet,
+  title={MSNet: Self-Supervised Multi-Scale Network with Enhanced Separation Training for Hyperspectral Anomaly Detection},
+  author={Liu, Haijun and Su, Xi and Shen, Xiangfei and Zhou, Xichuan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}
