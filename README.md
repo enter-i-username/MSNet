@@ -48,6 +48,7 @@ In this program, we evaluate the network using the Coast dataset in `dataset/coa
 
 If you find the code helpful in your research, please kindly cite our paper:
 
+```bibtex
 @article{liu2024msnet,
   title={MSNet: Self-Supervised Multi-Scale Network with Enhanced Separation Training for Hyperspectral Anomaly Detection},
   author={Liu, Haijun and Su, Xi and Shen, Xiangfei and Zhou, Xichuan},
@@ -55,3 +56,4 @@ If you find the code helpful in your research, please kindly cite our paper:
   year={2024},
   publisher={IEEE}
 }
+```
