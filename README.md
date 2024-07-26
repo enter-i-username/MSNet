@@ -1,6 +1,6 @@
 # MSNet
 
-This is the official implementation of the paper "MSNet: Self-Supervised Multiscale Network with Enhanced Separation Training for Hyperspectral Anomaly Detection" in IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+This is the official implementation of the paper "MSNet: Self-Supervised Multiscale Network with Enhanced Separation Training for Hyperspectral Anomaly Detection" in IEEE Transactions on Geoscience and Remote Sensing (TGRS). Paper link: (https://ieeexplore.ieee.org/document/10551851).
 
 ## Abstract
 
